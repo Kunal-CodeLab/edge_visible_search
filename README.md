@@ -47,7 +47,7 @@ Make sure you tick **"Add to PATH"** during installation.
 Open Command Prompt in the folder and run:
 
 ```bash
-pip install -r requirements.txt
+pip install selenium
 ```
 
 ---
